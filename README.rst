@@ -25,7 +25,7 @@ A small python utility program I wrote for the rare instances where I just need 
 Usage
 --------
 
-#. Run the program
+1. Run the program
   - If using the .exe, double click it.
   - If using the ComparingLists.py open a terminal and run:
 
@@ -33,31 +33,31 @@ Usage
 
         python ComparingLists.py
   
-#. Provide the name of the first list:
+2. Provide the name of the first list:
 
 .. image:: images/List_Name_1.gif
 
-#. Provide the first list delimiter:
+3. Provide the first list delimiter:
 
 .. image:: images/List_Delim_1.gif
 
-#. Provide first list data:
+4. Provide first list data:
 
 .. image:: images/List_Data_1.gif
 
-#. Provide the name of the second list:
+5. Provide the name of the second list:
 
 .. image:: images/List_Name_2.gif
 
-#. Provide the second list delimiter:
+6. Provide the second list delimiter:
 
 .. image:: images/List_Delim_2.gif
 
-#. Provide second list data:
+7. Provide second list data:
 
 .. image:: images/List_Data_2.gif
 
-#. Review results and determine if you'd like to go again (Anything that doesn't start with a 'y' is taken as a No.):
+8. Review results and determine if you'd like to go again (Anything that doesn't start with a 'y' is taken as a No.):
 
 .. image:: images/Review.gif
 
