@@ -2,20 +2,6 @@
 comparing_lists
 ===============
 
-
-.. image:: https://img.shields.io/pypi/v/comparing_lists.svg
-        :target: https://pypi.python.org/pypi/comparing_lists
-
-.. image:: https://img.shields.io/travis/William-Lake/comparing_lists.svg
-        :target: https://travis-ci.org/William-Lake/comparing_lists
-
-.. image:: https://readthedocs.org/projects/comparing-lists/badge/?version=latest
-        :target: https://comparing-lists.readthedocs.io/en/latest/?badge=latest
-        :alt: Documentation Status
-
-
-
-
 A small python utility program I wrote for the rare instances where I just need to compare two lists of data.
 
 
